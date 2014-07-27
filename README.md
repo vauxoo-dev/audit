@@ -6,7 +6,7 @@ PoC - don't Use in production. [Create a set of modules to enable a correct audi
 Plan:
 =====
 
-Using this [approach](https://wiki.postgresql.org/wiki/Audit_trigger) try to create a module which enabling properties in a class create the audit sql trigger that can be used to trace the elements in a database.
+Using this [approach](https://wiki.postgresql.org/wiki/Audit_trigger) try to create a module which enabling properties in a class create the audit sql trigger that can be used to trace the elements CRUD features in a database.
 
 ##Technical Consideration to affront the objective:
 
